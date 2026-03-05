@@ -1,40 +1,24 @@
-# Hi there 👋 I'm Santhosh
+<h1 align="center">Hi 👋, I'm Santhosh</h1>
+<h3 align="center">Tech Enthusiast and a Passionate developer</h3>
 
-💻 Frontend Developer  
-⚛️ React | JavaScript | Flutter  
-🚀 Building cool projects  
-📍 Chennai, India
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ss-2302&label=Profile%20views&color=0e75b6&style=flat" alt="ss-2302" /> </p>
 
-![Banner](https://your-banner-image-url)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ss-2302" alt="ss-2302" /></a> </p>
 
-### 🚀 Tech Stack
+- 👨‍💻 All of my projects are available at [https://santhosh2302.netlify.app/](https://santhosh2302.netlify.app/)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+- 📫 How to reach me **santhoshs0204@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/santhoshs23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhoshs23" height="30" width="40" /></a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![Snake animation](https://github.com/Platane/snk)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ss-2302&show_icons=true&locale=en&layout=compact" alt="ss-2302" /></p>
 
-🌐 Frontend: HTML | CSS | JavaScript | React  
-📱 Mobile: Flutter  
-🛠 Tools: Git | Firebase | Figma
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ss-2302&show_icons=true&locale=en" alt="ss-2302" /></p>
 
-## 🔥 Featured Projects
-
-🚴 Bicycle Rental System  
-A smart bicycle rental system using Flutter + ESP32 + Firebase.
-
-🌞 Solar Energy Website  
-A responsive React website for solar solutions.
-
-### 🌐 Connect with me
-
-[LinkedIn](https://linkedin.com)
-[Portfolio](https://yourwebsite.com)
-[Email](mailto:yourmail@gmail.com)
-
-theme=tokyonight
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ss-2302&" alt="ss-2302" /></p>
