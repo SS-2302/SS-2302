@@ -1,5 +1,5 @@
 <div align=center>
-  <h1>Hi 👋, I'm Santhosh S</h1>
+  <h1>Hi 👋, I'm Santhosh S </h1>
   
   ![GitHub followers](https://img.shields.io/github/followers/SS-2302?style=for-the-badge&logo=github&logoColor=white&color=0891b2)
   ![GitHub stars](https://img.shields.io/github/stars/SS-2302?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
