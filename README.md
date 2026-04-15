@@ -5,19 +5,20 @@
   ![GitHub stars](https://img.shields.io/github/stars/SS-2302?style=for-the-badge&logo=github&logoColor=white&color=fbbf24)
   ![Profile views](https://komarev.com/ghpvc/?username=SS-2302&style=for-the-badge&color=brightgreen)
 
-<h2>Frontend developer | Tech Enthusiast</h2>
-<h2>Languages and Tools I Use</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> &nbsp; </a> 
-<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> &nbsp;  </a> 
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> &nbsp;  </a> 
-<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>  &nbsp; </a> 
- <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> &nbsp;  </a>
- <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> &nbsp;  </a> 
- <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> &nbsp;  </a> 
- <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> &nbsp;  </a> 
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>  &nbsp; </a> 
- <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> 
+<p style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+  <img src="https://skillicons.dev/icons?i=html" width="40"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+  <img src="https://skillicons.dev/icons?i=py" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="40"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" width="40"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="40"/>
+  
 </p>
   <div align="center">
   
